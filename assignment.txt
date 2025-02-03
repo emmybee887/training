@@ -1,0 +1,13 @@
+assignment
+1. write a command to a file 
+      touch :file name.txt
+2.what is git and github
+       git is a version control system that help programmer track change in their code base over time use collaboration and code management
+       github is web based plartform for hosting and managing git repository
+3.what is the of accronym cli
+  command line interface
+4.what is the command to see the directry you are inside presently 
+    pwd
+5.write the command to move into differrent directry
+    cd ..
+ 
