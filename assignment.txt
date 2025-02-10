@@ -10,4 +10,7 @@ assignment
     pwd
 5.write the command to move into differrent directry
     cd ..
- 
+6.write command to list out the content on a directry
+    ls 
+7.write the command to list out a content on a directry including the hidden part
+    cat "file" 
